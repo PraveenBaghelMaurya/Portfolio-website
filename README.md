@@ -14,7 +14,4 @@ Welcome to my personal portfolio website! This project showcases my skills, expe
 - **Tools & Version Control:** Git, GitHub
 - **Deployment:** Vercel / Netlify
 
-## 📂 Project Setup
-To run this project locally, follow these steps:
 
-```sh
