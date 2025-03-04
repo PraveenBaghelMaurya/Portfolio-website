@@ -90,8 +90,8 @@ const WhatIDo = () => {
               <h3>DEVELOP</h3>
               <h4>Description</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-                quia aliquid laboriosam ducimus sit molestiae.
+              About
+              🛒 Pathlab_Official is a 🌍 MERN stack-based online medical store where users can 🏥 purchase medical items, 📦 track orders, and 🏆 manage healthcare needs efficiently. It provides 🔐 secure authentication, 📜 order history, 💳 payment integration, and a 🛠️ feature-rich admin dashboard for 📊 inventory management.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
@@ -131,8 +131,7 @@ const WhatIDo = () => {
               <h3>DESIGN</h3>
               <h4>Description</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-                quia aliquid laboriosam ducimus sit molestiae
+              🎲 A fun React-based Dice Game where players guess a number, roll the dice, and win rewards! 🎉 Test your luck and challenge friends!. The game provides an interactive and fun experience with a user-friendly interface.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
